@@ -13,10 +13,6 @@ The **Recipe Finder Website** is a Python-based web application that allows user
 
 - **Recipe Details:** Users can view detailed information about each recipe, including its name, ingredients, cooking instructions, and an image.
 
-- **Save Favorites:** Users can save their favorite recipes for quick access in the future.
-
-- **User-Friendly Interface:** The website features an intuitive and user-friendly interface, making it easy for users to navigate and find the recipes they want.
-
 ## Usage
 
 1. **Search for Recipes:** Enter the ingredients you have in the search bar and click "Search." The website will display a list of recipes that match your ingredients.
