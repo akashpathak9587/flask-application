@@ -1,14 +1,11 @@
-Certainly! Here's an overview of your Recipe Finder website created using Python and web scraping, which you can use in your project's README file:
-
----
-
 # Recipe Finder Website
 
 ## Overview
 
 The **Recipe Finder Website** is a Python-based web application that allows users to discover recipes based on the ingredients they have available. This website is designed to make meal planning and cooking easier by providing a convenient way to find recipes that match the ingredients at hand.
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](screenshot.jpeg)
+![Website Screenshot](screenshot2.jpeg)
 
 ## Features
 
@@ -25,10 +22,6 @@ The **Recipe Finder Website** is a Python-based web application that allows user
 1. **Search for Recipes:** Enter the ingredients you have in the search bar and click "Search." The website will display a list of recipes that match your ingredients.
 
 2. **View Recipe Details:** Click on a recipe to view its details, including the name, ingredients, cooking instructions, and an image.
-
-3. **Save Favorites:** To save a recipe as a favorite, click the heart icon on the recipe details page.
-
-4. **Access Favorites:** To access your saved favorite recipes, go to the Favorites section of the website.
 
 ## Installation
 
@@ -56,8 +49,6 @@ The **Recipe Finder Website** is a Python-based web application that allows user
 
 - BeautifulSoup: A library for web scraping in Python, used to extract recipe information from websites.
 
-- [Backend Service]: Describe any backend service or API used for recipe data retrieval.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the development of this project, please follow these steps:
@@ -83,11 +74,3 @@ Contributions are welcome! If you'd like to contribute to the development of thi
    ```
 
 5. Create a pull request to the main repository, explaining your changes and the problem they solve.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README template to match your project's specific details and structure. Make sure to replace placeholders like `[Backend Service]` with actual technologies or services you've used. Providing clear and concise information in your README helps users understand your project and encourages contributions.
