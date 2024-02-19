@@ -45,6 +45,5 @@ def search():
     
     return render_template('results.html', matching_recipes=matching_recipes)
 
-
 if __name__ == '__main__':
-    app.run(debug=True, port="5001")
+    app.run(debug=True, port=3000)
